@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+    --background-color :  #070824;
+    --logo-color:#A9927D;
+    --button-color: #00BCD4;
+    --hover-button-color: #0ad1eb85;
+    --background-light-gray: #262626;
+    --background-gray: #201f1f;
+    --card-background : #16182a ;
+
+}
+
+body {
+    color: white;
+}
